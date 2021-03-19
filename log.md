@@ -18,3 +18,7 @@
 ### Day 1: March 18, 2021
 
 **Today's Progress**: Studied and practiced DOM Nodes and working with them. 
+
+### Day 2: March 19, 2021
+
+**Today's Progress**: Finsihed the JS HTML DOM Course on W3Schools by learning about NodeLists and HTMLCollections
