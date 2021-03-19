@@ -9,3 +9,6 @@ Started learning more about Document Object Model Manipulation.
 
 ### R1D1 
 Started learning more about Document Object Model HTML Nodes.
+
+### R1D2
+Finished the JS HTML DOM Course on W3Schools by learning about NodeLists and HTMLCollections
