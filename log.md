@@ -14,3 +14,7 @@
 **Today's Progress**: Studied and practiced DOM Manipulation 
 
 **Thoughts**: I found the usage of JS in changing the HTML document and make the webpage dynamic very interesting.
+
+### Day 1: March 18, 2021
+
+**Today's Progress**: Studied and practiced DOM Nodes and working with them. 
