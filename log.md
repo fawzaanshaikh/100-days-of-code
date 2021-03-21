@@ -22,3 +22,9 @@
 ### Day 2: March 19, 2021
 
 **Today's Progress**: Finsihed the JS HTML DOM Course on W3Schools by learning about NodeLists and HTMLCollections
+
+### Day 3: March 20, 2021
+
+**Today's Progress**: Tried a few of my own animations with the help of CSS and JS (mainly JS). Also studied about Git and GitHub so that I can finally start working with the CLI.
+
+**Thoughts**: Realized how beautiful and demanding the process of animation in Web Development can be.
