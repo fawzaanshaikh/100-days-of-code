@@ -12,3 +12,7 @@ Started learning more about Document Object Model HTML Nodes.
 
 ### R1D2
 Finished the JS HTML DOM Course on W3Schools by learning about NodeLists and HTMLCollections
+
+
+### R1D3
+Tried a few animations with CSS and JS. Learned about Git and GitHub.
