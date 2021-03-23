@@ -38,3 +38,9 @@
 ### Day 5: March 22, 2021
 
 **Today's Progress**: Practiced some more CSS. Started Android Development.
+
+### Day 6: March 23, 2021
+
+**Today's Progress**: Learnt some more Android Development and started working on a college based project of making a landing site. I'm mainly focusing on the front-end aspect of the site.
+
+**Thoughts**: I should start taking up projects so that I can hone and pratice my skills while also learning newer things in the same field.
