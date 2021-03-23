@@ -17,3 +17,6 @@ Finished the JS HTML DOM Course on W3Schools by learning about NodeLists and HTM
 Tried a few animations with CSS and JS. Learned about Git and GitHub.
 
 ### R1D4
+
+### R1D5
+Practiced CSS. Started Android Development.
