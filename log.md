@@ -34,3 +34,7 @@
 **Today's Progress**: Pushed my local repository to my remote repository on GitHub using Git Bash. Also, understood the problems that my animations had. Mostly to do with the parent-child relationship between elements.
 
 **Thoughts**: My first git push felt really good. I did have a few problems and ended up deleting entire repositories, but then I got the hang of it. I'm pushing this log folder of mine with the Git CLI! Also, understood the problems with my animations. Will be working on them, too.
+
+### Day 5: March 22, 2021
+
+**Today's Progress**: Practiced some more CSS. Started Android Development.
