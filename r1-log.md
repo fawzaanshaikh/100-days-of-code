@@ -24,3 +24,6 @@ Practiced CSS. Started Android Development.
 
 ### R1D6
 Learnt some more Android Development and started working on a front-end project. 
+
+### R1D7
+Worked on the project more.

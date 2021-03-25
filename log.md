@@ -44,3 +44,9 @@
 **Today's Progress**: Learnt some more Android Development and started working on a college based project of making a landing site. I'm mainly focusing on the front-end aspect of the site.
 
 **Thoughts**: I should start taking up projects so that I can hone and pratice my skills while also learning newer things in the same field.
+
+### Day 7: March 24, 2021
+
+**Today's Progress**: Worked on the front-end project more. Still using HTML and CSS.
+
+**Thoughts**: Realized how crazy front-end development can get. Pixel by pixel, setting everything right. 
