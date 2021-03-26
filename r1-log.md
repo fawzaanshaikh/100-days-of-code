@@ -27,3 +27,6 @@ Learnt some more Android Development and started working on a front-end project.
 
 ### R1D7
 Worked on the project more.
+
+### R1D8
+Completed my part of the project for the desktop build. Will try to make it responsive.

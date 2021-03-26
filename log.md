@@ -50,3 +50,7 @@
 **Today's Progress**: Worked on the front-end project more. Still using HTML and CSS.
 
 **Thoughts**: Realized how crazy front-end development can get. Pixel by pixel, setting everything right. 
+
+### Day 8: March 25, 2021
+
+**Today's Progress**: Completed my part of the project for the desktop version. Will be trying to make it responsive now.
