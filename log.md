@@ -54,3 +54,7 @@
 ### Day 8: March 25, 2021
 
 **Today's Progress**: Completed my part of the project for the desktop version. Will be trying to make it responsive now.
+
+### Day 9: March 26, 2021
+
+**Today's Progress**: Had to make a few changes in the project and ended up seeing a lot more bugs subsequently. Kept fixing all of them, one by one.

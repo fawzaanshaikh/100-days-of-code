@@ -30,3 +30,6 @@ Worked on the project more.
 
 ### R1D8
 Completed my part of the project for the desktop build. Will try to make it responsive.
+
+### R1D9
+Had to make a few changes in the project and ended up seeing a lot more bugs subsequently. Kept fixing all of them, one by one.
