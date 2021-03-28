@@ -33,3 +33,6 @@ Completed my part of the project for the desktop build. Will try to make it resp
 
 ### R1D9
 Had to make a few changes in the project and ended up seeing a lot more bugs subsequently. Kept fixing all of them, one by one.
+
+### R1D10
+Studied a bit more about Git and GitHub so as to work in collaboration properly. Also did a bit of competitive programming.

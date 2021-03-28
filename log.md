@@ -58,3 +58,9 @@
 ### Day 9: March 26, 2021
 
 **Today's Progress**: Had to make a few changes in the project and ended up seeing a lot more bugs subsequently. Kept fixing all of them, one by one.
+
+### Day 10: March 27, 2021
+
+**Today's Progress**: Was working on unjumbling my repository up on GitHub and studied a bit more about the same so that the collaboration for the project can go better. Also did a bit of competitive programming.
+
+**Thoughts**: I have completed 1/10th of my challenge. It feels really good to be accountable to myself and be productive throughout the challenge till now.
