@@ -64,3 +64,7 @@
 **Today's Progress**: Was working on unjumbling my repository up on GitHub and studied a bit more about the same so that the collaboration for the project can go better. Also did a bit of competitive programming.
 
 **Thoughts**: I have completed 1/10th of my challenge. It feels really good to be accountable to myself and be productive throughout the challenge till now.
+
+### Day 11: March 28, 2021
+
+**Today's Progress**: Learnt how to make sites responsive. Refactored some code from a collaborator and still fixing the bugs.

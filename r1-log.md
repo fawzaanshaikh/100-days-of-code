@@ -36,3 +36,6 @@ Had to make a few changes in the project and ended up seeing a lot more bugs sub
 
 ### R1D10
 Studied a bit more about Git and GitHub so as to work in collaboration properly. Also did a bit of competitive programming.
+
+### R1D11
+Learnt how to make sites responsive. Refactored some code. Fixing bugs.
