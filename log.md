@@ -68,3 +68,9 @@
 ### Day 11: March 28, 2021
 
 **Today's Progress**: Learnt how to make sites responsive. Refactored some code from a collaborator and still fixing the bugs.
+
+### Day 12: March 29, 2021
+
+**Today's Progress**: Finished the desktop view of the project. Will be adding in a few effects to the links, etc.
+
+**Thoughts**: Felt really nice once the desktop view was complete. It was a satisfying experience.
