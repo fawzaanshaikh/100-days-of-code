@@ -42,3 +42,5 @@ Learnt how to make sites responsive. Refactored some code. Fixing bugs.
 
 ### R1D12
 Finished the desktop view of the project.
+### R1D13
+Did some C++ programming.

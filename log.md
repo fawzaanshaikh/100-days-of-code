@@ -74,3 +74,7 @@
 **Today's Progress**: Finished the desktop view of the project. Will be adding in a few effects to the links, etc.
 
 **Thoughts**: Felt really nice once the desktop view was complete. It was a satisfying experience.
+
+### Day 13: March 30, 2021
+
+**Today's Progress**: Did some C++ programming and worked on dictionary data structure.
