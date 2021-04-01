@@ -78,3 +78,7 @@
 ### Day 13: March 30, 2021
 
 **Today's Progress**: Did some C++ programming and worked on dictionary data structure.
+
+### Day 14: March 31, 2021
+
+**Today's Progress**: Wrote first binary tree program in C++ and displayed it using inorder traversal. Also added some resposiveness to the project so as to view in varying desktop sizes.
